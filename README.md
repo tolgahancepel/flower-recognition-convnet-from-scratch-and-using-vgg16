@@ -1,1 +1,1 @@
-# flower-recognition-from-scratch-and-using-vgg16
+# Flower Recognition from Scratch and Using VGG16
