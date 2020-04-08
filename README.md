@@ -12,9 +12,6 @@ I have been studying on ConvNets and its implementation in Keras. Also my passio
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
 
-2 - Flower Recognition Feature Extraction and Fine Tuning using VGG16 <br>
-
-
 #### Flowers Dataset (https://www.kaggle.com/alxmamaev/flowers-recognition)
 - The dataset contains 4242 pictures of flowers.
 - The images are divided into five classes: dandelion, tulip, rose, daisy, sunflower.
