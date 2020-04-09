@@ -2,7 +2,7 @@
 ### About
 I have been studying on ConvNets and its implementation in Keras. Also my passion is to get experience about structuring computer vision projects. The best way of learning is, as you know, practice. You can find an end-to-end computer vision project (except of collecting data) in this repository. There are 2 Jupyter Notebooks: <br>
 
-1 - <a href="#">Flower Recognition ConvNet from Scratch</a> - 
+1 - <a href="https://github.com/tolgahancepel/flower-recognition-convnet-from-scratch-and-using-vgg16/blob/master/flower-recognition-convnet-from-scratch.ipynb">Flower Recognition ConvNet from Scratch</a> - 
 <a href="https://www.kaggle.com/tolgahancepel/flower-recognition-convnet-from-scratch">
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
