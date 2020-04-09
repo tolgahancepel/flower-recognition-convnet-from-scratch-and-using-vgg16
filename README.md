@@ -19,4 +19,3 @@ I have been studying on ConvNets and its implementation in Keras. Also my passio
 
 #### Validation Scores (Accuracy)
 <img width="800" src="https://github.com/tolgahancepel/flower-recognition-convnet-from-scratch-and-using-vgg16/blob/master/val_scores.png"></img>
-</a
