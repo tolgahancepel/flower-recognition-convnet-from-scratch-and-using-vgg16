@@ -15,3 +15,8 @@ I have been studying on ConvNets and its implementation in Keras. Also my passio
 #### Flowers Dataset (https://www.kaggle.com/alxmamaev/flowers-recognition)
 - The dataset contains 4242 pictures of flowers.
 - The images are divided into five classes: dandelion, tulip, rose, daisy, sunflower.
+
+
+#### Validation Scores (Accuracy)
+<img width="800" src="https://github.com/tolgahancepel/flower-recognition-convnet-from-scratch-and-using-vgg16/blob/master/val_scores.png"></img>
+</a
