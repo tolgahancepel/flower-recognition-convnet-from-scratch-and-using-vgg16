@@ -2,12 +2,12 @@
 ### About
 I have been studying on ConvNets and its implementation in Keras. Also my passion is to get experience about structuring computer vision projects. You can find an end-to-end computer vision project (except of collecting data) in this repository. There are 2 Jupyter Notebooks: <br>
 
-1 - <a href="https://github.com/tolgahancepel/flower-recognition-convnet-from-scratch-and-using-vgg16/blob/master/flower-recognition-convnet-from-scratch.ipynb">Flower Recognition ConvNet from Scratch</a> - 
+1 - <a href="https://github.com/tolgahancepel/flower-recognition-convnet-from-scratch-and-using-vgg16/blob/master/flower-recognition-convnet-from-scratch.ipynb">Flower Recognition ConvNet from Scratch</a>
 <a href="https://www.kaggle.com/tolgahancepel/flower-recognition-convnet-from-scratch">
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
 
-2 - <a href="#">Flower Recognition Feature Extraction and Fine Tuning using VGG16</a> - 
+2 - <a href="https://github.com/tolgahancepel/flower-recognition-convnet-from-scratch-and-using-vgg16/blob/master/feature-extraction-and-fine-tuning-using-vgg16.ipynb">Flower Recognition Feature Extraction and Fine Tuning using VGG16</a>
 <a href="https://www.kaggle.com/tolgahancepel/feature-extraction-and-fine-tuning-using-vgg16">
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
